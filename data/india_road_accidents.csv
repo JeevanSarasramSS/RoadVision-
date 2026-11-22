@@ -1,0 +1,65 @@
+table,category,year,accidents,killed
+national,All India,2013,486476,137572
+national,All India,2014,489400,139671
+national,All India,2015,501423,146133
+time_of_day,00-03,2015,27954,
+time_of_day,03-06,2015,30291,
+time_of_day,06-09,2015,55518,
+time_of_day,09-12,2015,81964,
+time_of_day,12-15,2015,79616,
+time_of_day,15-18,2015,87819,
+time_of_day,18-21,2015,86836,
+time_of_day,21-24,2015,51425,
+month,1,2015,42661,
+month,2,2015,40661,
+month,3,2015,42842,
+month,4,2015,42432,
+month,5,2015,46247,
+month,6,2015,42065,
+month,7,2015,39694,
+month,8,2015,39126,
+month,9,2015,39761,
+month,10,2015,42089,
+month,11,2015,41018,
+month,12,2015,42827,
+weather,Fine,2015,339580,90118
+weather,Mist/fog,2015,20196,7665
+weather,Cloudy,2015,15567,5015
+weather,Light rain,2015,24881,6919
+weather,Heavy rain,2015,17780,5199
+weather,Flooding,2015,1834,921
+weather,Hail/sleet,2015,1243,581
+weather,Snow,2015,164,53
+weather,Strong wind,2015,3725,1505
+weather,Dust storm,2015,3734,1819
+weather,Other extraordinary,2015,72719,26338
+city,Delhi,2015,8085,1622
+city,Mumbai,2015,23468,611
+city,Chennai,2015,7328,886
+city,Bengaluru,2015,4834,713
+city,Kolkata,2015,4347,422
+city,Hyderabad,2015,2761,425
+city,Ahmedabad,2015,1837,328
+city,Pune,2015,1443,438
+city,Jaipur,2015,1894,476
+city,Lucknow,2015,1371,526
+state,Tamil Nadu,2015,69059,15642
+state,Maharashtra,2015,63805,13212
+state,Madhya Pradesh,2015,54947,9314
+state,Karnataka,2015,44011,10856
+state,Kerala,2015,39014,4196
+state,Uttar Pradesh,2015,32385,17666
+state,Delhi,2015,8085,1622
+cause,Fault of driver,2015,386481,106021
+cause,Fault of driver of other vehicles,2015,24431,6961
+cause,Fault of pedestrian,2015,7509,2690
+cause,Fault of cyclist,2015,3695,1384
+cause,Defect in condition of motor vehicle,2015,11601,4127
+cause,Defect in road condition,2015,7314,2733
+cause,Weather condition,2015,5781,2552
+cause,Fault of passenger,2015,6668,2657
+cause,Poor light,2015,5456,2095
+cause,Falling of boulders,2015,1087,505
+cause,Neglect of civic bodies,2015,1076,416
+cause,Stray animals,2015,1534,579
+cause,Other causes / not known,2015,38790,13413
